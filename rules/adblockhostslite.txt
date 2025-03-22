@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、DNS-Blocklists、OISD Basic、1024 hosts、ad-wars hosts、qq5460168、217heidai、YujiaCheng1996。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250322233727
-# Last modified: 2025/03/22 23:37:27
-# Blocked domains: 6345
+# Version: 20250323003922
+# Last modified: 2025/03/23 00:39:22
+# Blocked domains: 6334
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -494,7 +494,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	88lm13.com
 0.0.0.0	88lm15.com
 0.0.0.0	88tm6.cc
-0.0.0.0	m.89kvh.cn
 0.0.0.0	8ail6.icu
 0.0.0.0	8ff0.cn
 0.0.0.0	8g0j.cn
@@ -579,7 +578,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	admobile.top
 0.0.0.0	admon.cn
 0.0.0.0	adpolestar.net
-0.0.0.0	conversion.adpro.cn
 0.0.0.0	adquan.com
 0.0.0.0	adreal.cn
 0.0.0.0	ads-go.adroi.com.cn
@@ -2850,7 +2848,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.iteye.com
 0.0.0.0	v1.ard.update.itlily.com
 0.0.0.0	itpest.cn
-0.0.0.0	a.itsmore.cn
 0.0.0.0	itxinrou.com
 0.0.0.0	ityangstudy.cn
 0.0.0.0	ivbgpax.cn
@@ -3936,7 +3933,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ooniu.com
 0.0.0.0	ounion.openadx.com
 0.0.0.0	openinstall.io
-0.0.0.0	cdn.openxt.cn
 0.0.0.0	adsfs.oppomobile.com
 0.0.0.0	adsfs-id.oppomobile.com
 0.0.0.0	adsfs-in.oppomobile.com
@@ -4086,10 +4082,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pqjprom.cn
 0.0.0.0	pqzjki.cn
 0.0.0.0	prlioxb.cn
-0.0.0.0	adpro.pro.cn
-0.0.0.0	adx.pro.cn
-0.0.0.0	conversion.pro.cn
-0.0.0.0	dsp.pro.cn
 0.0.0.0	info.protiviti.com.cn
 0.0.0.0	dm.pstatp.com
 0.0.0.0	pb3.pstatp.com
@@ -4673,7 +4665,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.mix.sina.com.cn
 0.0.0.0	matwbp.iask.sina.com.cn
 0.0.0.0	pfp.sina.com.cn
-0.0.0.0	r.dmp.sina.com.cn
 0.0.0.0	rm.sina.com.cn
 0.0.0.0	s.img.mix.sina.com.cn
 0.0.0.0	sax.sina.com.cn
@@ -5717,7 +5708,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xiaohei.com
 0.0.0.0	spider-tracker.xiaohongshu.com
 0.0.0.0	splash-online-decision.xiaohongshu.com
-0.0.0.0	www.xiaohui2.cn
 0.0.0.0	api.xiaohuxi.cn
 0.0.0.0	adtrack.xiaojukeji.com
 0.0.0.0	dorado.xiaojukeji.com
@@ -6133,7 +6123,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	statistic-overseas.yunxinfw.com
 0.0.0.0	yunzuowen.com
 0.0.0.0	91puma.x.yupoo.com
-0.0.0.0	www.yuyue008.cn
 0.0.0.0	yw800.com.cn
 0.0.0.0	ywhws.cn
 0.0.0.0	ywkkmze.cn

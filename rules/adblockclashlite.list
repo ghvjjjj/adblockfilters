@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、DNS-Blocklists、OISD Basic、1024 hosts、ad-wars hosts、qq5460168、217heidai、YujiaCheng1996。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250322233727
-# Last modified: 2025/03/22 23:37:27
-# Blocked domains: 6345
+# Version: 20250323003922
+# Last modified: 2025/03/23 00:39:22
+# Blocked domains: 6334
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -479,7 +479,6 @@ DOMAIN-SUFFIX,88lm12.com
 DOMAIN-SUFFIX,88lm13.com
 DOMAIN-SUFFIX,88lm15.com
 DOMAIN-SUFFIX,88tm6.cc
-DOMAIN-SUFFIX,m.89kvh.cn
 DOMAIN-SUFFIX,8ail6.icu
 DOMAIN-SUFFIX,8ff0.cn
 DOMAIN-SUFFIX,8g0j.cn
@@ -564,7 +563,6 @@ DOMAIN-SUFFIX,admobclick.com
 DOMAIN-SUFFIX,admobile.top
 DOMAIN-SUFFIX,admon.cn
 DOMAIN-SUFFIX,adpolestar.net
-DOMAIN-SUFFIX,conversion.adpro.cn
 DOMAIN-SUFFIX,adquan.com
 DOMAIN-SUFFIX,adreal.cn
 DOMAIN-SUFFIX,ads-go.adroi.com.cn
@@ -2835,7 +2833,6 @@ DOMAIN-SUFFIX,rabc1.iteye.com
 DOMAIN-SUFFIX,stat.iteye.com
 DOMAIN-SUFFIX,v1.ard.update.itlily.com
 DOMAIN-SUFFIX,itpest.cn
-DOMAIN-SUFFIX,a.itsmore.cn
 DOMAIN-SUFFIX,itxinrou.com
 DOMAIN-SUFFIX,ityangstudy.cn
 DOMAIN-SUFFIX,ivbgpax.cn
@@ -3921,7 +3918,6 @@ DOMAIN-SUFFIX,oo3z.icu
 DOMAIN-SUFFIX,ooniu.com
 DOMAIN-SUFFIX,ounion.openadx.com
 DOMAIN-SUFFIX,openinstall.io
-DOMAIN-SUFFIX,cdn.openxt.cn
 DOMAIN-SUFFIX,adsfs.oppomobile.com
 DOMAIN-SUFFIX,adsfs-id.oppomobile.com
 DOMAIN-SUFFIX,adsfs-in.oppomobile.com
@@ -4071,10 +4067,6 @@ DOMAIN-SUFFIX,ppxscy1.cn
 DOMAIN-SUFFIX,pqjprom.cn
 DOMAIN-SUFFIX,pqzjki.cn
 DOMAIN-SUFFIX,prlioxb.cn
-DOMAIN-SUFFIX,adpro.pro.cn
-DOMAIN-SUFFIX,adx.pro.cn
-DOMAIN-SUFFIX,conversion.pro.cn
-DOMAIN-SUFFIX,dsp.pro.cn
 DOMAIN-SUFFIX,info.protiviti.com.cn
 DOMAIN-SUFFIX,dm.pstatp.com
 DOMAIN-SUFFIX,pb3.pstatp.com
@@ -4658,7 +4650,6 @@ DOMAIN-SUFFIX,interest.mix.sina.com.cn
 DOMAIN-SUFFIX,log.mix.sina.com.cn
 DOMAIN-SUFFIX,matwbp.iask.sina.com.cn
 DOMAIN-SUFFIX,pfp.sina.com.cn
-DOMAIN-SUFFIX,r.dmp.sina.com.cn
 DOMAIN-SUFFIX,rm.sina.com.cn
 DOMAIN-SUFFIX,s.img.mix.sina.com.cn
 DOMAIN-SUFFIX,sax.sina.com.cn
@@ -5702,7 +5693,6 @@ DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,xiaohei.com
 DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
 DOMAIN-SUFFIX,splash-online-decision.xiaohongshu.com
-DOMAIN-SUFFIX,www.xiaohui2.cn
 DOMAIN-SUFFIX,api.xiaohuxi.cn
 DOMAIN-SUFFIX,adtrack.xiaojukeji.com
 DOMAIN-SUFFIX,dorado.xiaojukeji.com
@@ -6118,7 +6108,6 @@ DOMAIN-SUFFIX,app.storage.yunvm.com
 DOMAIN-SUFFIX,statistic-overseas.yunxinfw.com
 DOMAIN-SUFFIX,yunzuowen.com
 DOMAIN-SUFFIX,91puma.x.yupoo.com
-DOMAIN-SUFFIX,www.yuyue008.cn
 DOMAIN-SUFFIX,yw800.com.cn
 DOMAIN-SUFFIX,ywhws.cn
 DOMAIN-SUFFIX,ywkkmze.cn

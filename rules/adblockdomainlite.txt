@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、DNS-Blocklists、OISD Basic、1024 hosts、ad-wars hosts、qq5460168、217heidai、YujiaCheng1996。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250322233727
-! Last modified: 2025/03/22 23:37:27
-! Blocked domains: 6345
+! Version: 20250323003922
+! Last modified: 2025/03/23 00:39:22
+! Blocked domains: 6334
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -479,7 +479,6 @@ www.8842777.com
 88lm13.com
 88lm15.com
 88tm6.cc
-m.89kvh.cn
 8ail6.icu
 8ff0.cn
 8g0j.cn
@@ -564,7 +563,6 @@ admobclick.com
 admobile.top
 admon.cn
 adpolestar.net
-conversion.adpro.cn
 adquan.com
 adreal.cn
 ads-go.adroi.com.cn
@@ -2835,7 +2833,6 @@ rabc1.iteye.com
 stat.iteye.com
 v1.ard.update.itlily.com
 itpest.cn
-a.itsmore.cn
 itxinrou.com
 ityangstudy.cn
 ivbgpax.cn
@@ -3921,7 +3918,6 @@ oo3z.icu
 ooniu.com
 ounion.openadx.com
 openinstall.io
-cdn.openxt.cn
 adsfs.oppomobile.com
 adsfs-id.oppomobile.com
 adsfs-in.oppomobile.com
@@ -4071,10 +4067,6 @@ ppxscy1.cn
 pqjprom.cn
 pqzjki.cn
 prlioxb.cn
-adpro.pro.cn
-adx.pro.cn
-conversion.pro.cn
-dsp.pro.cn
 info.protiviti.com.cn
 dm.pstatp.com
 pb3.pstatp.com
@@ -4658,7 +4650,6 @@ interest.mix.sina.com.cn
 log.mix.sina.com.cn
 matwbp.iask.sina.com.cn
 pfp.sina.com.cn
-r.dmp.sina.com.cn
 rm.sina.com.cn
 s.img.mix.sina.com.cn
 sax.sina.com.cn
@@ -5702,7 +5693,6 @@ adx.xiaodutv.com
 xiaohei.com
 spider-tracker.xiaohongshu.com
 splash-online-decision.xiaohongshu.com
-www.xiaohui2.cn
 api.xiaohuxi.cn
 adtrack.xiaojukeji.com
 dorado.xiaojukeji.com
@@ -6118,7 +6108,6 @@ app.storage.yunvm.com
 statistic-overseas.yunxinfw.com
 yunzuowen.com
 91puma.x.yupoo.com
-www.yuyue008.cn
 yw800.com.cn
 ywhws.cn
 ywkkmze.cn

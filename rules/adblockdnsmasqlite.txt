@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、DNS-Blocklists、OISD Basic、1024 hosts、ad-wars hosts、qq5460168、217heidai、YujiaCheng1996。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250322233727
-# Last modified: 2025/03/22 23:37:27
-# Blocked domains: 6345
+# Version: 20250323003922
+# Last modified: 2025/03/23 00:39:22
+# Blocked domains: 6334
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -479,7 +479,6 @@ local=/88lm12.com/
 local=/88lm13.com/
 local=/88lm15.com/
 local=/88tm6.cc/
-local=/m.89kvh.cn/
 local=/8ail6.icu/
 local=/8ff0.cn/
 local=/8g0j.cn/
@@ -564,7 +563,6 @@ local=/admobclick.com/
 local=/admobile.top/
 local=/admon.cn/
 local=/adpolestar.net/
-local=/conversion.adpro.cn/
 local=/adquan.com/
 local=/adreal.cn/
 local=/ads-go.adroi.com.cn/
@@ -2835,7 +2833,6 @@ local=/rabc1.iteye.com/
 local=/stat.iteye.com/
 local=/v1.ard.update.itlily.com/
 local=/itpest.cn/
-local=/a.itsmore.cn/
 local=/itxinrou.com/
 local=/ityangstudy.cn/
 local=/ivbgpax.cn/
@@ -3921,7 +3918,6 @@ local=/oo3z.icu/
 local=/ooniu.com/
 local=/ounion.openadx.com/
 local=/openinstall.io/
-local=/cdn.openxt.cn/
 local=/adsfs.oppomobile.com/
 local=/adsfs-id.oppomobile.com/
 local=/adsfs-in.oppomobile.com/
@@ -4071,10 +4067,6 @@ local=/ppxscy1.cn/
 local=/pqjprom.cn/
 local=/pqzjki.cn/
 local=/prlioxb.cn/
-local=/adpro.pro.cn/
-local=/adx.pro.cn/
-local=/conversion.pro.cn/
-local=/dsp.pro.cn/
 local=/info.protiviti.com.cn/
 local=/dm.pstatp.com/
 local=/pb3.pstatp.com/
@@ -4658,7 +4650,6 @@ local=/interest.mix.sina.com.cn/
 local=/log.mix.sina.com.cn/
 local=/matwbp.iask.sina.com.cn/
 local=/pfp.sina.com.cn/
-local=/r.dmp.sina.com.cn/
 local=/rm.sina.com.cn/
 local=/s.img.mix.sina.com.cn/
 local=/sax.sina.com.cn/
@@ -5702,7 +5693,6 @@ local=/adx.xiaodutv.com/
 local=/xiaohei.com/
 local=/spider-tracker.xiaohongshu.com/
 local=/splash-online-decision.xiaohongshu.com/
-local=/www.xiaohui2.cn/
 local=/api.xiaohuxi.cn/
 local=/adtrack.xiaojukeji.com/
 local=/dorado.xiaojukeji.com/
@@ -6118,7 +6108,6 @@ local=/app.storage.yunvm.com/
 local=/statistic-overseas.yunxinfw.com/
 local=/yunzuowen.com/
 local=/91puma.x.yupoo.com/
-local=/www.yuyue008.cn/
 local=/yw800.com.cn/
 local=/ywhws.cn/
 local=/ywkkmze.cn/
