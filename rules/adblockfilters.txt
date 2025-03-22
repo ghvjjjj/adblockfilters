@@ -1,11 +1,11 @@
 !
 ! Title: AdBlock Filter
-! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、DNS-Blocklists、OISD Basic、1024 hosts、ad-wars hosts、qq5460168。
+! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、DNS-Blocklists、OISD Basic、1024 hosts、ad-wars hosts、qq5460168、217heidai。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20250322230959
-! Last modified: 2025/03/22 23:09:59
-! Blocked Filters: 918
+! Version: 20250322232051
+! Last modified: 2025/03/22 23:20:51
+! Blocked Filters: 936
 !
 *ad.durasite.net^
 -adrevenue.appsflyersdk.com^
@@ -26,15 +26,19 @@
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
+.adonweb.ru^
 .allalla.com^
+.ay.delivery^
 .cpa1.ru^
 .ecommtools.com^
+.gameleads.ru^
 .is.traff-numerical.info^
 .n.2.1.js^
 .n.2.1.l60.js^
 .prod.pr.analytics.console.aws.a2z.com
 .stape.net
 .tpm.pw^
+.tvp.tv^
 .vipko.ru^
 .webhop.net^
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -345,7 +349,9 @@ vkcdnservice.appspot.com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||ali-p2p*pull*com^
 ||alishop*.ru^
+||allmt.com
 ||allsportsflix.
+||almosto.com
 ||amsweb-cdn-gz-*.file.myqcloud.com^
 ||an.yandex.
 ||ana*.inews24.com^
@@ -447,6 +453,7 @@ vkcdnservice.appspot.com^
 ||collector-*.us.tvsquared.com^
 ||collector.hamsterix.
 ||collector.xhamster*.
+||config.appjolt.com
 ||count*.pconline.com.cn^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
@@ -496,6 +503,7 @@ vkcdnservice.appspot.com^
 ||edgetrksvc.ebay.
 ||ej1*.online^
 ||engage.3m*^
+||et-code.ru
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -520,6 +528,7 @@ vkcdnservice.appspot.com^
 ||fxhpaoxqyajvmdg.
 ||gads*s.com^
 ||gads*z.com^
+||gaming001.site
 ||gbs.gamingmedia.ru
 ||gcw*.2liang.cn^
 ||gecko*-lf.zijieapi.com^
@@ -542,6 +551,7 @@ vkcdnservice.appspot.com^
 ||gtmdev.jabra.
 ||guanggao*.*^
 ||hads*s.com^
+||hitcounter.ru
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -617,6 +627,7 @@ vkcdnservice.appspot.com^
 ||logs*.smithsonian.museum^
 ||logs.juspay.in
 ||logservice-*.platform.dbankcloud.cn^
+||loneday.com
 ||lt*.tritondigital.com^
 ||lv-api-sinfonlinea.ulikecam.com/lv/v1/ad/*^
 ||maas-*.phunware.com^
@@ -651,6 +662,7 @@ vkcdnservice.appspot.com^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.tiktokv.com^
+||moneymaiker.ru
 ||ms*.applvn.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.tiktok.com^
@@ -658,6 +670,7 @@ vkcdnservice.appspot.com^
 ||mssdk*.tiktokv.us^
 ||mssdk*.tiktokw.us^
 ||mssdk*.zijieapi.com^
+||mtm.qdqmedia.com
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||nadvideo*.baidu.com^
@@ -744,6 +757,7 @@ vkcdnservice.appspot.com^
 ||reading.snssdk.com/cloudpush/update_sender*^
 ||reading.snssdk.com/reading/bookapi/sstimor/entry_type*^
 ||real*traf.ru^
+||rebill.me
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
@@ -800,12 +814,14 @@ vkcdnservice.appspot.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||stats-*.p2pnow.ru^
+||stats.debatdirect.tweedekamer.nl
 ||stats.zone-telechargement.
 ||stats2.*.fdnames.com^
 ||stlog*-local.kakao.com^
 ||subnewss*.net^
 ||suite*.linximpulse.net^
 ||sunnimiq*.cf^
+||superpcexpert.ru
 ||supersonicads*.*^
 ||t*-m.dewu.net^
 ||t*.playdigo.live^
@@ -821,7 +837,8 @@ vkcdnservice.appspot.com^
 ||thegreatesthits.
 ||thezbpe5*.xyz^
 ||timedirect.ru
-||tiz.neosmi.ru
+||tms-st.cdn.ngenix.net
+||tmserver-2.net
 ||tn.porngo.xxx^$badfilter
 ||tnc*.tiktokv.us^
 ||tnc*.zijieapi.com^
@@ -864,6 +881,7 @@ vkcdnservice.appspot.com^
 ||usage*.*^
 ||use-trk*.bluevoox.com^
 ||util-*.simply-hentai.com^
+||uts.auction.co.kr
 ||v*-ad.video.yximgs.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||v*-novelapp.fqnovelvod.com^
